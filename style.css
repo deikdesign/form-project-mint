@@ -1,6 +1,6 @@
 
 section{
-    width: 350px;
+    width: 318px;
     margin: auto;
 }
 
@@ -25,4 +25,53 @@ section{
 .header-text {
     margin-left: 5px;
     margin-right: 10px;
+    border: 1px solid black;
+}
+
+.form-table {
+    border: 1px solid black;
+    width: none;
+    height: 400px;
+}
+
+.form-table h1, h4 {
+text-align: center;
+}
+
+.anchor {
+justify-content: center;
+margin:auto;
+}
+
+.form-sign {
+    width: 318px;
+    border: 1px solid black;
+    border-radius: none;
+    margin-top:10px;
+}
+
+ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+label {
+margin-top: 10px;
+}
+
+input {
+    width:318px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 25px;
+    
+    
+}
+
+input#su-button {
+    background-color: #0077C5;
+    color: white;
+    height: 3rem;
+    border: 1px solid black;
 }
