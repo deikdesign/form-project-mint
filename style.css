@@ -1,7 +1,21 @@
 
-section{
-    width: 318px;
+*{ 
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+    font-family: sans-serif;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ECEEF1;
+}
+
+.main-container{
+    width: 398px;
     margin: auto;
+    border: 3px solid black;
 }
 
 .intuit-logo-img {
@@ -11,10 +25,11 @@ section{
     opacity:.7;
 }
 
-.header{
+.header-container{
     display: flex;
     align-items: center;
-    align-content: center;
+    justify-content: center;
+    border: 1px solid yellow;
 }
 
 .header-icons {
@@ -25,53 +40,59 @@ section{
 .header-text {
     margin-left: 5px;
     margin-right: 10px;
-    border: 1px solid black;
 }
+
+/*********************************/
 
 .form-table {
-    border: 1px solid black;
-    width: none;
-    height: 400px;
+    text-align: center;
+    width: 398px;
+    margin: auto;
+    margin-top: 20px;
+    background: white;
+    border: 1px solid blue;
 }
 
-.form-table h1, h4 {
-text-align: center;
+.title-form-text {
+    margin-top: 30px;
+    opacity: .8;
+    font-weight: lighter;
 }
 
-.anchor {
-justify-content: center;
-margin:auto;
+.description-form-text {
+    margin-top: 20px;
+    opacity: .6;
+}
+
+.anchor-form {
+    font-size: 12px;
 }
 
 .form-sign {
+    text-align: left;
     width: 318px;
-    border: 1px solid black;
-    border-radius: none;
-    margin-top:10px;
-}
-
-ul {
-    list-style: none;
-    margin:0;
-    padding:0;
-}
-
-label {
-margin-top: 10px;
+    margin: auto;
+    border: 1px solid rgb(228, 25, 25);
+    margin-top:30px;
 }
 
 input {
     width:318px;
     margin-top: 10px;
-    border-radius: 5px;
-    height: 25px;
-    
-    
+    margin-bottom: 35px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    height: 40px;
 }
 
-input#su-button {
+#su-button {
     background-color: #0077C5;
     color: white;
     height: 3rem;
     border: 1px solid black;
+}
+
+.end-text {
+    text-align: center;
+    font-size: 13px;
 }
