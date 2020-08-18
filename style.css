@@ -1,0 +1,28 @@
+
+section{
+    width: 350px;
+    margin: auto;
+}
+
+.intuit-logo-img {
+    width: 160px;
+    display: flex;
+    margin: auto;
+    opacity:.7;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.header-icons {
+    width: 25px;
+    height: 25px;
+}
+
+.header-text {
+    margin-left: 5px;
+    margin-right: 10px;
+}
