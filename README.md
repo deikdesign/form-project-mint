@@ -4,7 +4,7 @@
 
 ![screenshot](./mint_screenshot.JPG)
 
-The project has a full description formm with a title and a field for email, phone number and a password
+The project has a full description form with a title and a field for email, phone number and a password
 
 ## Built With
 
