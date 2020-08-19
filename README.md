@@ -20,10 +20,10 @@ Chrome browser
 Setup
 * $ cd "folder location"
 * $ git clone https://github.com/deikdesign/form-project-mint.git
-Install
-Usage 
-Run tests - HTML validator, w3 validation
-Deployment 
+* Install
+* Usage 
+* Run tests - HTML validator, w3 validation
+* Deployment 
 
 Authors
 
