@@ -72,7 +72,7 @@ body {
     text-align: left;
     width: 318px;
     margin: auto;
-    border: 1px solid rgb(228, 25, 25);
+    border: 1px solid rgb(255, 255, 255);
     margin-top:30px;
 }
 
@@ -93,6 +93,24 @@ input {
 }
 
 .end-text {
+    font-size: 12px;
+    font-style: italic;
+    color: black;
+    opacity: .9;
     text-align: center;
     font-size: 13px;
+    padding-bottom: 35px;
+}
+
+#container-recaptcha {
+    background-color: #eceef1;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.recaptcha {
+    text-align:center;
+    font-size: 10px;
+    color: #8d9096;
+    padding: 10px;
 }
