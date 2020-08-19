@@ -1,5 +1,4 @@
 # Form Project Mint
-# Working Branch
 
 > The project is about a Mint form for users.
 
