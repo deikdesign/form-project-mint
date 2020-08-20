@@ -2,7 +2,11 @@
 
 > The project is about a Mint form for users.
 
-![screenshot](.IMG/mint_screenshot.JPG)
+<<<<<<< HEAD
+![screenshot](IMG/mint_screenshot.JPG)
+=======
+![screenshot](CSS/mint_screenshot.JPG)
+>>>>>>> 231cf779401c959fd7680ee1bf46fa78b6a6b995
 
 The project has a full description form with a title and a field for email, phone number and a password
 
