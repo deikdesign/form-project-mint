@@ -2,7 +2,7 @@
 
 > The project is about a Mint form for users.
 
-![screenshot](.css/mint_screenshot.JPG)
+![screenshot](.IMG/mint_screenshot.JPG)
 
 The project has a full description form with a title and a field for email, phone number and a password
 
