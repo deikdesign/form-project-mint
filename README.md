@@ -2,7 +2,7 @@
 
 > The project is about a Mint form for users.
 
-![screenshot](./mint_screenshot.JPG)
+![screenshot](.css/mint_screenshot.JPG)
 
 The project has a full description form with a title and a field for email, phone number and a password
 
@@ -26,13 +26,13 @@ Prerequisites - Chrome browser
 
 Authors
 
-👤 Author1
+👤 Deyan Todorov
 
 Github: @deikdesign
 Twitter: @deikdesign
 Linkedin: linkedin
 
-👤 Author2
+👤 Alan Soto
 
 Github: @AlanSoto31
 Twitter: @Alan95081574
