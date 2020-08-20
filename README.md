@@ -20,9 +20,6 @@ Prerequisites - Chrome browser
  - $ cd "folder location"
  - $ git clone https://github.com/deikdesign/form-project-mint.git
 * Install
-* Usage 
-* Run tests - HTML validator, w3 validation
-* Deployment 
 
 Authors
 
